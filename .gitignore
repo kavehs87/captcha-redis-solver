@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.DS_Store
+*.h5
+*.png
+*.log
+*.zip
+/answers/
+/model_captcha/
+/model_captcha_best/
+/model_captcha_working/
+/predictions/
+/temp/
+/vendor/
+/wrong/
+prediction.png
+composer.lock
